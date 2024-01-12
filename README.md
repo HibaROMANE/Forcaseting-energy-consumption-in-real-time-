@@ -23,8 +23,7 @@ This project requires the following libraries and tools:
 ## Installation
 To set up this project, follow these steps:
 ```bash
-git clone https://github.com/HibaROMANE/Forcaseting-energy-consumption-in-real-time.git
-```
+git clone https://github.com/HibaROMANE/Forcaseting-energy-consumption-in-real-time-.git
 
 ## Contributing
 To contribute to this project:
